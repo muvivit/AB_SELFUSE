@@ -1,0 +1,9 @@
+{
+    "bundles": [
+      {
+        "name": "model",
+        "version": "1.0",
+        "url": "hyperlink of you model bundles"
+      }
+    ]
+  }
